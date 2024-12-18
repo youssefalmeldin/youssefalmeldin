@@ -29,7 +29,7 @@
 
 <a href="https://www.linkedin.com/in/youssef-alm-el-din-9aa3ab206/" target="_blank">
   <img src="https://img.shields.io/badge/-Youssef%20Alm%20El--Den-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/youssefibrahem98" target="_blank"><img src="https://img.shields.io/badge/-YYoussef%20Alm%20El--Den-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/youssefibrahem98" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Alm%20El--Den-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
  - 📫 How to reach me **youssefalm27@gmail.com**
 
