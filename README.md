@@ -29,7 +29,7 @@
 
  - **Email**: **youssefalm27@gmail.com**
  - **Phone**: +20 100 887 1248
- - **LinkedIn**:<b>LinkedIn: <a href="https://www.linkedin.com/in/youssef-alm-el-din-9aa3ab206/" target="_blank">My Profile</a></b>
+ - **LinkedIn**:<b> <a href="https://www.linkedin.com/in/youssef-alm-el-din-9aa3ab206/" target="_blank">My Profile</a></b>
   <br>
 
 
