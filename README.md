@@ -25,13 +25,14 @@
     - OCA Oracle Certified Associate Java SE 8 Programmer I
     - Spring start here 
  
-### Connect with Me :
+📫**How to Reach Me** :
 
-<a href="https://www.linkedin.com/in/youssef-alm-el-din-9aa3ab206/" target="_blank">
-  <img src="https://img.shields.io/badge/-Youssef%20Alm%20El--Den-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/youssefibrahem98" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Alm%20El--Den-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+ - **Email**: **youssefalm27@gmail.com**
+ - **Phone**: +20 100 887 1248
+ - **LinkedIn**:<b>LinkedIn: <a href="https://www.linkedin.com/in/youssef-alm-el-din-9aa3ab206/" target="_blank">My Profile</a></b>
+  <br>
 
- - 📫 How to reach me **youssefalm27@gmail.com**
+
 
 
 
@@ -44,6 +45,28 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### 🛠️ Skills
+- **Backend**: Spring Boot, Hibernate, Spring core, Spring MVC, Spring Data, Spring Security
+- **Frontend**: HTML, Bootstrap, JavaScript, TypeScript, and Angular.
+- **Databases**: PostgreSQL, MySQL
+- **DevOps**: Docker
+- **Languages and Tools**:
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,idea,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,bootstrap,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
+</p>
+
+
+
+
+
+---
+📄**Know more about my experience:** **[CV](https://drive.google.com/file/d/1k7N7bAp53ht4kzy5TPRnL0GG0nRInEJ1/view?usp=sharing)**
+
+
 
 
 
