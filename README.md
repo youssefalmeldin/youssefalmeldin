@@ -13,7 +13,9 @@
 </p> 
 
 - 🏢 I'm a  Software Engineer Intern @ Fawry
-- 👨‍💻 As a fresh  computer engineering graduate, I constantly learn and explore new techniques to improve my skills.
+- 👨‍💻 I’m a passionate software engineer who loves technology and problem-solving. Here's a bit about me: I’m currently working on exciting projects involving web development. I’m constantly learning and improving my skills in various programming languages and technologies.
+
+
 - 💬 Ask me about my experience with Java, MySQL, and Spring Framework.
 - ⚡ My hobby is reading
  - 📖 I'm currently reading these books
@@ -57,6 +59,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,idea,cpp" /><br>
   <img src="https://skillicons.dev/icons?i=js,ts,html,bootstrap,angular" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
+<img align="left" alt="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
 </p>
 
 
