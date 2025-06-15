@@ -14,7 +14,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🏢 I'm a Software Engineer Intern @ **Fawry**.
+- 🏢 I completed a Software Engineering Intern @ **Fawry**.
 - 👨‍💻 Passionate about technology and problem-solving.
 - 🔥 Currently working on exciting projects involving web development (Spring Boot, Angular).
 - 📚 Always learning and improving my skills in programming, backend technologies, and software design.
