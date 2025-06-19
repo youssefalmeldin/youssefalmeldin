@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 - 🏢 I completed a Software Engineering Intern @ **Fawry**.
 - 👨‍💻 Passionate about technology and problem-solving.
-- 🔥 Currently working on exciting projects involving web development (Spring Boot, Angular).
+- 🔥 Currently working on exciting web development projects (Spring Boot, Angular).
 - 📚 Always learning and improving my skills in programming, backend technologies, and software design.
 
 ---
@@ -41,7 +41,7 @@
 
 ### 🚀 Featured Projects
 - 🔹 [**Team-Api**](https://github.com/Fawry-Internship-Porject/Team-Api)  
-  Team management API microservice using **Spring Boot**, **MapStruct**, **WebClient**, and **MySQL**.  
+  The team management API microservice uses **Spring Boot**, **MapStruct**, **WebClient**, and **MySQL**.  
   ➔ Designed for efficient management of teams, users, and external integrations during my Fawry internship project. Overcame challenges with asynchronous communication and integrating multiple external services.
 
 - 🔹 [**Movie-App-BackEnd**](https://github.com/youssefalmeldin/Movie-App-BackEnd)  
@@ -93,7 +93,7 @@
 </p>
 
 ---
-📄 **Know more about my experience:** **[My CV](https://drive.google.com/file/d/1k7N7bAp53ht4kzy5TPRnL0GG0nRInEJ1/view?usp=sharing)**
+📄 **Know more about my experience:** **[My CV](https://drive.google.com/file/d/1b297LQh2QMUhC3DyE7Hz21KX-u4VI11m/view?usp=sharing)**
 
 
 
